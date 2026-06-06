@@ -1,6 +1,6 @@
 {
   "name": "SpeakEase AI",
   "description": "An interactive assistive communication tool for people with aphasia and speech impairments using multimodal camera and voice processing.",
-  "requestFramePermissions": ["camera", "microphone"],
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
